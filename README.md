@@ -1,7 +1,7 @@
 ## Reddit reader
 
 ### Welcome to reddit-reader: This repo serves to aid text-to-speech translation for reddit posts
-![Demo](https://github.com/DonovanVA/reddit-reader/blob/master/output/output_video.mp4)
+
 ## Getting Started:
 
 ### 1. Installation:
@@ -14,13 +14,13 @@ pip install -r requirements.txt
 ```
 
 #### 1.2 Install imagemagick
-###### Installation website: https://imagemagick.org/script/download.php
+##### Installation website: https://imagemagick.org/script/download.php
 
-###### You might want to uncomment this line in the main.py file if you are using windows or if you encounter problems with the imagemagick path not being set
+##### You might want to uncomment this line in the main.py file if you are using windows or if you encounter problems with the imagemagick path not being set
 ```
 # change_settings({"IMAGEMAGICK_BINARY": "/path/to/convert"})
 ```
-###### where the path to convert is you zsh/bash EXPORT path
+##### where the path to convert is you zsh/bash EXPORT path
 
 
 ### 2. Using the script
