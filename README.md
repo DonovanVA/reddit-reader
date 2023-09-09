@@ -51,6 +51,9 @@ Markup : 1. Insert your background video into the /backgrounds folder
 ##### Ensure that the video clip is long enough for your narration.
 ##### Adding subtitles is still unavailable, would like some help/PR to enable this feature.
 ##### Example Background video: https://www.youtube.com/watch?v=intRX7BRA90&t=2s - download and place it in the backgrounds folder
+##### Current system:
+![Screenshot 2023-09-09 at 8 10 04 PM](https://github.com/DonovanVA/reddit-reader/assets/86190604/407c77dd-a074-44b2-88bb-3df907f5cb7e)
+
 
 
 
