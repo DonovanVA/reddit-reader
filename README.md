@@ -1,7 +1,7 @@
 ## Reddit reader
 
 ### Welcome to reddit-reader: This repo serves to aid text-to-speech translation for reddit posts
-
+![Demo](https://github.com/DonovanVA/reddit-reader/blob/master/output/output_video.mp4)
 ## Getting Started:
 
 ### 1. Installation:
