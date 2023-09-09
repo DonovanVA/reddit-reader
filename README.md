@@ -2,6 +2,8 @@
 
 ### Welcome to reddit-reader: This repo serves to aid text-to-speech translation for reddit posts
 
+https://github.com/DonovanVA/reddit-reader/assets/86190604/1c313eb2-a8e4-4235-ad39-cb85f055cac1
+
 ## Getting Started:
 
 ### 1. Installation:
