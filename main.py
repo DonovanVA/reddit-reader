@@ -26,9 +26,9 @@ def add_subtitiles(subtitle_file:str,final_clip: VideoClip) -> CompositeVideoCli
         txt,
         font="/fonts/Proxima_Nova_Semibold.ttf",
         fontsize=48,
-        color="white",
+        color="yellow",
         stroke_color="black",
-        stroke_width=2,
+        stroke_width=1,
     )
 
     subtitles = SubtitlesClip(subtitle_file,generator)
