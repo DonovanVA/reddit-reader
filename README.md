@@ -2,7 +2,11 @@
 
 ### Welcome to reddit-reader: This repo serves to aid text-to-speech translation for reddit posts
 
-https://github.com/DonovanVA/reddit-reader/assets/86190604/1c313eb2-a8e4-4235-ad39-cb85f055cac1
+
+
+https://github.com/DonovanVA/reddit-reader/assets/86190604/8945853b-1d39-4370-9e99-2ada5912a492
+
+
 
 ## Getting Started:
 
